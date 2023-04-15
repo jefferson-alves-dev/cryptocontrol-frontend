@@ -1,0 +1,33 @@
+.nav_extension_container {
+  width: 100%;
+  min-height: 20rem;
+  background-color: var(--color-primary-blue);
+  border-bottom-left-radius: 100%;
+  border-bottom-right-radius: 100%;
+  justify-content: center;
+  align-items: center;
+  transform: translateY(-50%);
+  position: relative;
+}
+
+.nav_extension_container h2 {
+  color: var(--color-light-blue);
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  bottom: 5rem;
+  text-align: center;
+}
+
+.nav_extension_container h3 {
+  color: var(--color-light-blue);
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  bottom: 2rem;
+  text-align: center;
+}
