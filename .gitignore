@@ -5,6 +5,7 @@
 # Others files
 middleware.*
 /build
+noticias.*
 
 ### NextJS ###
 # dependencies
